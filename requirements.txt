@@ -1,0 +1,8 @@
+psutil>=5.9.0
+pandas>=1.5.0
+matplotlib>=3.5.0
+click>=8.0.0
+# Optional dependencies for specific OS support
+# Windows: pywin32>=305
+# macOS: pyobjc>=9.0
+# Linux: python-xlib>=0.33
